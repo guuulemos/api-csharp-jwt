@@ -1,2 +1,2 @@
-# api-csharp-jwt
-Api para usar o JWT com Swagger
+# JWT - Authorization
+ Desenvolvendo uma **_API_** usando **_JWT com Swagger_** :ghost:
